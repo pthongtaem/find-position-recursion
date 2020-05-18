@@ -1,0 +1,13 @@
+{
+  "name": "find-position-recursion",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "dev": "ts-node ./src/findPosition.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.1",
+    "ts-node": "^8.10.1",
+    "typescript": "^3.9.2"
+  }
+}
